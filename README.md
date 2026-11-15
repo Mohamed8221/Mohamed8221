@@ -21,7 +21,7 @@ Cybersecurity-focused engineer from Egypt, studying at the Arab Open University.
 
 ## Software engineering foundations (ALX)
 
-- **C / low level:** [simple_shell](https://github.com/Mohamed8221/simple_shell) · [printf](https://github.com/Mohamed8221/printf) · [monty](https://github.com/Mohamed8221/monty) · [sorting_algorithms](https://github.com/Mohamed8221/sorting_algorithms) · [binary_trees](https://github.com/Mohamed8221/binary_trees) · [alx-low_level_programming](https://github.com/Mohamed8221/alx-low_level_programming)
+- **C / low level:** [simple_shell](https://github.com/Mohamed8221/simple_shell) · [printf](https://github.com/Mohamed8221/printf) · [sorting_algorithms](https://github.com/Mohamed8221/sorting_algorithms) · [binary_trees](https://github.com/Mohamed8221/binary_trees) · [alx-low_level_programming](https://github.com/Mohamed8221/alx-low_level_programming)
 - **Python / backend:** [AirBnB_clone](https://github.com/Mohamed8221/AirBnB_clone) · [AirBnB_clone_v2](https://github.com/Mohamed8221/AirBnB_clone_v2) · [alx-higher_level_programming](https://github.com/Mohamed8221/alx-higher_level_programming)
 - **DevOps / sysadmin:** [alx-system_engineering-devops](https://github.com/Mohamed8221/alx-system_engineering-devops)
 
